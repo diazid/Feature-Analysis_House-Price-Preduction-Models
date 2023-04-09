@@ -83,7 +83,7 @@ Using Tableau make a:
 
 Tableau Visualizations can be found by clicking the link below:
 
-[Visualizations: Home Prices](https://public.tableau.com/shared/96H6MFXJ5?:display_count=n&:origin=viz_share_link)
+[Visualizations: Home Prices](https://public.tableau.com/app/profile/israel.diaz/viz/shared/XPQ85743M)
 
 ---
  Thanks you
