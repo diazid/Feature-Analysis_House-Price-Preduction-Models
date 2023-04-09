@@ -1,4 +1,4 @@
-# Home Values: 0Belt-Exam-A
+# Home Values: Belt-Exam-A
 
 by Israel Diaz
 
@@ -23,7 +23,8 @@ by Israel Diaz
 * Land Contour_Bnk: HAving Quick and significant rise from street grade to building can substract -72,620.47 to the price.
 
 #### Explain the Random Forest Regressor
-    * Using Festure Importance
+
+* **Using Festure Importance**
 
 ![png](/img/rf_feature_importance.png)
 
@@ -45,7 +46,7 @@ In linear regression the coefficient that push the price up is the Central Air_Y
 
 By the way, the only feature that is in both most important features is Overall Cond.
 
-    * Using SHAP.
+* **Using SHAP.**
 
 ![png](/img/SHAP_feature_importance.png)
 
